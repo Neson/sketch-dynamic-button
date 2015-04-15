@@ -26,7 +26,7 @@ Thanks [IngoValente](https://github.com/IngoValente) for CSS shorthands and all 
 [![Demo Video](https://dl.dropboxusercontent.com/u/1909742/sketch-plugin/thumb.png)](http://www.youtube.com/watch?v=ZJCYUCU7YxQ)
 
 ## Installation
-1. [Download Dynamyc button.sketchplugin.](https://github.com/sketchplugins/sketch-dynamic-button/archive/master.zip)
+1. [Download Dynamyc button.sketchplugin.](https://github.com/Neson/sketch-dynamic-button/archive/master.zip)
 2. Double-click the file inside download folder. Sketch should open automatically and tell you that a new plugin was installed.
   <img src="https://dl.dropboxusercontent.com/u/1909742/sketch-plugin/success.png" alt="installed" width="534" />
 3. You should see the Dynamic button entry under the Plugins menu. 
